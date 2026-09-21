@@ -1,0 +1,6 @@
+
+suma = 0
+for i in [1, 2, 3, 4, 5, 6, 7, 99]:
+    suma = suma + i
+
+print(suma)
