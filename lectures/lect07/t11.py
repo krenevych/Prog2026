@@ -10,6 +10,6 @@ print(string.isalpha())
 print(string.split())
 print(string.split("o"))
 
-lst = ["h", "b", "0"]
+
 
 
