@@ -7,6 +7,7 @@ def F(n):
     else:
         return F(n-1) + F(n-2)
 
+###### MAIN ###############
 print(
-    F(8)
+    F(5)
 )
